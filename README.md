@@ -98,7 +98,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 <!-- snake purple -->
 <div align="center">
-  <img src="https://github.com/D3PA/D3PA/blob/output/github-snake.svg" alt="Snake animation">
+  <img src="https://github.com/D3PA/D3PA/blob/output/snake.svg" alt="Snake animation">
 </div>
 <!-- snake purple -->
 
@@ -126,3 +126,4 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-dark-mode-only">
 <img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-light-mode-only">
 <!--final-->
+

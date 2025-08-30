@@ -1,17 +1,20 @@
 name: Actualizar Snake
 
 on:
-  workflow_dispatch:  
+  workflow_dispatch: {}  
   schedule:
-    - cron: '0 3 * * *' 
+    - cron: '0 3 * * *'  
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
 
+    steps:
+      # clonar el repo
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      # generar snake SVG
       - name: Generar Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -21,8 +24,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Subir SVG a rama output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # subir SVG a rama output automaticamente
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

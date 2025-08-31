@@ -35,7 +35,7 @@ Currently, I’m focusing on my growth as a QA Engineer, while also transitionin
   <tr>
     <td align="center">
       <p><b>LANGUAGES</b></p>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,ruby" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,ruby,html,css" />
     </td>
     <td align="center">
       <p><b>DATABASES</b></p>
@@ -126,4 +126,5 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-dark-mode-only">
 <img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-light-mode-only">
 <!--final-->
+
 

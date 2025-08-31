@@ -11,16 +11,13 @@ jobs:
 
     steps:
       - name: Clonar repositorio
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configurar Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 16
-
-      - name: Instalar dependencias
-        run: npm ci
-
+          
       - name: Ejecutar script de actualización
         run: node actualizar.js
         env:

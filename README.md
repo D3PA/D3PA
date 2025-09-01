@@ -89,7 +89,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
     <td width="50%">
       <p align="center">
         <a href="https://github.com/D3PA">
-          <img align="center" src="https://streak-stats.demolab.com?user=D3PA&theme=dark&background=0,0B2247,351170&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=D3PA&theme=dark&background=0,0B2247,351170&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=b23eff&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -126,6 +126,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-dark-mode-only">
 <img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-light-mode-only">
 <!--final-->
+
 
 
 

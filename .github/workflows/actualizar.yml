@@ -27,6 +27,6 @@ jobs:
         run: |
           git config --local user.name "Rodrigo Muñoz"
           git config --local user.email "34246790+D3PA@users.noreply.github.com"
-          git add README.md
+          git add README.md ultima_posicion.json
           git commit -m "Actualizar frase del dia" || echo "No hay cambios que commitear"
           git push

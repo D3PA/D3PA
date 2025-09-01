@@ -2,14 +2,23 @@ const fs = require('fs');
 
 function actualizarFraseDelDia() {
   try {
-    const todasLasFrases = require('./frases.json');
-    const indiceAleatorio = Math.floor(Math.random() * todasLasFrases.length);
-    const { frase, autor } = todasLasFrases[indiceAleatorio];
+    const frases = require('./frases.json');
+    const total = frases.length;
+
+    const rutaIndice = './ultima_posicion.json';
+    let indice = 0;
+
+    if (fs.existsSync(rutaIndice)) {
+      const data = JSON.parse(fs.readFileSync(rutaIndice, 'utf-8'));
+      indice = (data.indice + 1) % total; // rotacion
+    }
+
+    const { frase, autor } = frases[indice];
 
     const tarjetaHTML = `
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(autor)}&quote=${encodeURIComponent(frase)}&theme=dark&bg_color=2e1a47&author_color=9fa8da&accent_color=7e57c2">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=${encodeURIComponent(autor)}&quote=${encodeURIComponent(frase)}&theme=dark&bg_color=2e1a47&author_color=9fa8da&accent_color=7e57c2" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
 `;
@@ -23,9 +32,13 @@ function actualizarFraseDelDia() {
     );
 
     fs.writeFileSync(rutaReadme, contenidoReadme);
-    console.log('README actualizado con la frase del dia');
+
+    // guardar el indice
+    fs.writeFileSync(rutaIndice, JSON.stringify({ indice }, null, 2));
+
+    console.log(`Frase #${indice + 1}/${total} usada: ${frase} — ${autor}`);
   } catch (error) {
-    console.error('Error actualizando la frase del dia:', error);
+    console.error('Error actualizando la frase del día:', error);
   }
 }
 

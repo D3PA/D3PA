@@ -82,7 +82,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
     <td width="50%">
       <p align="center">
         <a href="https://github.com/D3PA">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=D3PA&count_private=true&show_icons=true&theme=dark&bg_color=0,0B2247,351170&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=D3PA&count_private=true&show_icons=true&theme=dark&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -126,5 +126,6 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-dark-mode-only">
 <img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-light-mode-only">
 <!--final-->
+
 
 

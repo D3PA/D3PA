@@ -105,11 +105,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <!--update quote at 00:00 argentina-->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="30" /> What I’m Thinking Today
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Batman&quote=It's%20not%20who%20I%20am%20underneath,%20but%20what%20I%20do%20that%20defines%20me.&theme=dark&bg_color=2e1a47&author_color=9fa8da&accent_color=7e57c2" alt="Quotes"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Batman&quote=Fear%20is%20what%20gives%20the%20rest%20of%20you%20strength.&theme=dark&bg_color=2e1a47&author_color=9fa8da&accent_color=7e57c2" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 ---
 

@@ -27,7 +27,7 @@ function actualizarFraseDelDia() {
     let contenidoReadme = fs.readFileSync(rutaReadme, 'utf-8');
 
     contenidoReadme = contenidoReadme.replace(
-      /<!--TARJETA_INICIO-->(.|\n)*<!--TARJETA_FIN-->/,
+      /<!--TARJETA_INICIO-->[\s\S]*<!--TARJETA_FIN-->/,
       tarjetaHTML
     );
 

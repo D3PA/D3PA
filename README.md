@@ -111,11 +111,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Arnold%20Schwarzenegger&quote=Strength%20does%20not%20come%20from%20winning.%20Your%20struggles%20develop%20your%20strengths.&theme=dark&bg_color=2e1a47&author_color=9fa8da&accent_color=7e57c2" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Lance%20Armstrong&quote=Pain%20is%20temporary.%20Quitting%20lasts%20forever.&theme=dark&bg_color=2e1a47&author_color=9fa8da&accent_color=7e57c2" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 

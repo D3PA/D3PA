@@ -1,22 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 80">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="500">
   <style>
-    .text {
-      font-family: monospace;
-      font-size: 34px;
-      fill: white;
-    }
-    .name {
-      fill: #823AB5;
-    }
-    .cursor {
-      fill: #823AB5;
-    }
+    .text { font-family: monospace; font-size: 34px; fill: white; }
+    .name { fill: #823AB5; }
+    .cursor { fill: #823AB5; }
   </style>
 
-  <!-- Definimos la máscara -->
+  <!-- Máscara de tipeo -->
   <defs>
     <clipPath id="typing">
-      <rect x="10" y="15" width="0" height="40">
+      <rect x="140" y="15" width="0" height="40">
         <animate attributeName="width"
                  values="0;520;520;0"
                  keyTimes="0;0.4;0.7;1"
@@ -27,14 +19,14 @@
   </defs>
 
   <!-- Texto -->
-  <text x="10" y="50" class="text" clip-path="url(#typing)">
+  <text x="140" y="50" class="text" clip-path="url(#typing)">
     Hi there, I'm <tspan class="name">Rodrigo Muñoz</tspan>
   </text>
 
   <!-- Cursor -->
-  <rect x="10" y="15" width="3" height="40" class="cursor">
+  <rect x="140" y="15" width="3" height="40" class="cursor">
     <animate attributeName="x"
-             values="10;530;530;10"
+             values="140;660;660;140"
              keyTimes="0;0.4;0.7;1"
              dur="7s"
              repeatCount="indefinite" />

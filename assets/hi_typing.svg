@@ -12,7 +12,7 @@
         <animate attributeName="width"
                  values="0;520;520;0"
                  keyTimes="0;0.4;0.7;1"
-                 dur="12s"
+                 dur="20s"
                  repeatCount="indefinite" />
       </rect>
     </clipPath>
@@ -28,7 +28,7 @@
     <animate attributeName="x"
              values="140;660;660;140"
              keyTimes="0;0.4;0.7;1"
-             dur="12s"
+             dur="20s"
              repeatCount="indefinite" />
     <animate attributeName="opacity"
              values="1;0;1"

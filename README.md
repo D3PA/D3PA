@@ -4,7 +4,7 @@
 </p>
 
 <!--banner image-->
-![Banner image D3PA](assets/banner.gif)
+![Banner image D3PA](assets/bannerv2.gif)
 
 <!--title-->
 <p align="center">
@@ -167,6 +167,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

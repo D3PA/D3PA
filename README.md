@@ -33,7 +33,7 @@ Currently, I’m focusing on my growth as a QA Engineer, while also transitionin
 - <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="25" height="25" /> All of my projects are available at [GitHub](https://github.com/Giulicapua?tab=repositories)
 
 <!--technical skills table-->
-## <img src="https://github.com/D3PA/D3PA/blob/main/assets/technical.gif?raw=true" alt="Technical Skills" width="30" height="30" /> Technical Skills
+## <img src="assets/technicalv2.gif" alt="Technical Skills" width="30" height="30" /> Technical Skills
 
 <pre>
 ~$ cat technical_skills.txt
@@ -169,6 +169,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

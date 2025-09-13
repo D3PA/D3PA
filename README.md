@@ -103,7 +103,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
     <td width="50%">
       <p align="center">
         <a href="https://wakatime.com/@DEPA">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DEPA&theme=radical&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&border_color=823AB5&card_width=500" alt="WakaTime Languages" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DEPA&theme=radical&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&border_color=823AB5&card_width=500&v=2" alt="WakaTime Languages" />
         </a>
       </p>
     </td>
@@ -169,6 +169,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

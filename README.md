@@ -4,17 +4,19 @@
 </p>
 
 <!--banner image-->
-![Banner image D3PA](assets/banner.png)
+![Banner image D3PA](assets/banner.gif)
 
 <!--title-->
-<h1 align="center"><b>Hi there, I'm <a href="https://github.com/D3PA">Rodrigo Muñoz</a> </b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="45" height="45" />
+<p align="center">
+  <img src="assets/hi_typing.svg" width="900" />
+</p>
 
 <!--about me-->
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About me
+## <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35"/> Who Am I?
 
 <!--right image-->
 <div>
-  <img align="right" width="40%" src="https://github.com/D3PA/D3PA/blob/main/assets/rightimage.png?raw=true">
+  <img align="right" width="35%" src="https://github.com/D3PA/D3PA/blob/main/assets/rightimagebearv2.png?raw=true">
 </div>
 
 <!--about me info-->
@@ -24,46 +26,41 @@ I began programming with ***Visual Basic 6***, then gradually explored other lan
 
 Currently, I’m focusing on my growth as a QA Engineer, while also transitioning my career into Cybersecurity. I’m especially interested in Pentesting and security practices, aiming to combine my QA background with security expertise to become a QA Security Specialist.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" alt="Purple Heart" width="25" height="25" /> I’m currently learning **Quality Assurance** and **Cybersecurity**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" alt="People Hugging" width="25" height="25" /> I’m looking to collaborate on Open Source Projects
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Purple Heart" width="25" height="25" /> Visit my [Portfolio](https://github.com/D3PA) for more details about me. (Under construction) 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="25" height="25" /> I’m currently learning **Quality Assurance** and **Cybersecurity**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" width="25" height="25" /> I’m looking to collaborate on Open Source Projects
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" /> Visit my [Portfolio](https://github.com/D3PA) for more details about me. (Under construction)
+- <img src="https://emojis.slackmojis.com/emojis/images/1699029852/73706/purple_mamacostyle_fdk.gif?1699029852" width="25" height="25" /> I’m here to leave digital scars, not forgotten folders. 
+- <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="25" height="25" /> All of my projects are available at [GitHub](https://github.com/Giulicapua?tab=repositories)
 
 <!--technical skills table-->
 ## <img src="https://github.com/D3PA/D3PA/blob/main/assets/technical.gif?raw=true" alt="Technical Skills" width="30" height="30" /> Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <p><b>LANGUAGES</b></p>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,ruby,html,css" />
-    </td>
-    <td align="center">
-      <p><b>DATABASES</b></p>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p><b>FRAMEWORKS & LIBRARIES</b></p>
-      <img src="https://skillicons.dev/icons?i=react,angular,nodejs,django,flask,bootstrap,tailwind" />
-    </td>
-    <td align="center">
-      <p><b>QA / TESTING TOOLS</b></p>
-      <img src="https://skillicons.dev/icons?i=selenium,jest,cypress,postman" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <p><b>DEVOPS & CLOUD</b></p>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions" />
-    </td>
-    <td align="center">
-      <p><b>TOOLS & OTHERS</b></p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bitbucket,bash,idea" />
-    </td>
-  </tr>
-</table>
-<!--technical skills table-->
+<pre>
+~$ cat technical_skills.txt
+# These are the languages, frameworks, tools, and platforms I work with.
+
+~$ tree -L 1
+├─ lenguages/
+│   <img src="https://skills.syvixor.com/api/icons?i=assembly,cpp,javascript,typescript,python,rust,html,css3" />
+├─ database/
+│   <img src="https://skills.syvixor.com/api/icons?i=sqlserver,mysql,postgresql,mongodb,sqlite" />
+├─ frameworks/
+│   ├─ frontend/
+│   │   <img src="https://skills.syvixor.com/api/icons?i=reactjs,angularjs,tailwindcss,bootstrap" />
+│   └─ backend/
+│       <img src="https://skills.syvixor.com/api/icons?i=nodejs,django,flask" />
+├─ qa_testing/
+│   <img src="https://skills.syvixor.com/api/icons?i=postman,jest,cypress,playwright,apachejmeter" />
+├─ tools/
+│   ├─ devops/
+│   │   <img src="https://skills.syvixor.com/api/icons?i=docker,kubernetes,jenkins,githubactions" />
+│   └─ others/
+│       <img src="https://skillicons.dev/icons?i=git,github,bitbucket,vscode,idea,linux" />
+├─ graphic_design/
+│   <img src="https://skills.syvixor.com/api/icons?i=adobephotoshop,adobeillustrator,adobexd,adobeaftereffects,adobepremierepro,figma" />
+└─ hacking_cybersecurity/
+    <img src="https://skills.syvixor.com/api/icons?i=bash,archlinux,kalilinux,metasploit,powershell" />
+</pre>
 
 <!--connect with me-->
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded hands" width="30" /> Connect with me
@@ -71,8 +68,9 @@ Currently, I’m focusing on my growth as a QA Engineer, while also transitionin
 Do you want to contact me for collaboration opportunities? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Eyes.png" alt="Purple Heart" width="25" height="25" />
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/rodrimunoz"><img src="https://img.shields.io/badge/LinkedIn-2e1a47?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="Linkedin Profile with Username rodrimunoz" /></a>
-<a href="mailto:rodrigonicomunoz@gmail.com"><img src="https://img.shields.io/badge/Gmail-2e1a47?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="email rodrigonicomunoz@gmail.com" /></a>
+<a href="https://www.linkedin.com/in/rodrimunoz"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=black" alt="Linkedin Profile with Username rodrimunoz" /></a>
+<a href="mailto:rodrigonicomunoz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=black" alt="email rodrigonicomunoz@gmail.com" /></a>
+<a href="mailto:rodrigonicomunoz@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-61DAFB?style=for-the-badge&logo=file-directory-fill&logoColor=61DAFB&labelColor=black" alt="email rodrigonicomunoz@gmail.com" /></a> 
 </p>
 
 <!--github overview-->
@@ -82,19 +80,36 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
     <td width="50%">
       <p align="center">
         <a href="https://github.com/D3PA">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=D3PA&count_private=true&show_icons=true&theme=dark&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=D3PA&count_private=true&show_icons=true&theme=dark&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&border_color=823AB5&show=reviews,prs_merged,prs_merged_percentage&card_width=500" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/D3PA">
-          <img align="center" src="https://streak-stats.demolab.com?user=D3PA&theme=dark&background=0,0B2247,351170&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=b23eff&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=D3PA&theme=dark&background=0,0B2247,351170&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=b23eff&currStreakNum=ffffff&border=823AB5&card_width=500" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+   <tr>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/D3PA">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3PA&layout=compact&theme=radical&card_width=500&langs_count=10&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&border_color=823AB5" alt="Top Langs" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <a href="https://wakatime.com/@DEPA">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DEPA&theme=radical&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&border_color=823AB5&card_width=500" alt="WakaTime Languages" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
 
 <!-- snake purple -->
 <div align="center">
@@ -118,7 +133,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Saint%20Seiya&quote=A%20lesson%20without%20pain%20is%20meaningless.&theme=dark&bg_color=2e1a47&author_color=9fa8da&accent_color=7e57c2" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Saint%20Seiya&quote=A%20lesson%20without%20pain%20is%20meaningless.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
 
@@ -143,10 +158,14 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 [![give a ⭐ to this repo](https://img.shields.io/badge/give%20a%20%E2%AD%90%20to%20this%20repo-black?style=for-the-badge)](https://github.com/D3PA/D3PA)
 [![follow me on GitHub](https://img.shields.io/badge/follow%20me%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/D3PA)
 
+<a href="https://notbyai.fyi/#not-by-ai-mission"><img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" /></a>
+
+
 </div>
 
-<img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-dark-mode-only">
-<img alt="final animation" src="assets/animation_violet_depa_wave.svg#gh-light-mode-only">
+
+<img alt="final animation" src="assets/animation_purple.svg">
+<img alt="final line" src="assets/final_line.svg">
 <!--final-->
 
 

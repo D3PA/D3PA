@@ -30,10 +30,17 @@ Currently, I’m focusing on my growth as a QA Engineer, while also transitionin
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/People%20Hugging.png" width="25" height="25" /> I’m looking to collaborate on Open Source Projects
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/refs/heads/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="25" height="25" /> Visit my [Portfolio](https://github.com/D3PA) for more details about me. (Under construction)
 - <img src="https://emojis.slackmojis.com/emojis/images/1699029852/73706/purple_mamacostyle_fdk.gif?1699029852" width="25" height="25" /> I’m here to leave digital scars, not forgotten folders. 
-- <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="25" height="25" /> All of my projects are available at [GitHub](https://github.com/Giulicapua?tab=repositories)
+- <img src="https://emojis.slackmojis.com/emojis/images/1666851939/62008/party-github.gif?1666851939" width="25" height="25" /> All of my projects are available at [GitHub](https://github.com/D3PA?tab=repositories)
+
+
+</br>
 
 <!--technical skills table-->
+<div align="center">
+  
 ## <img src="assets/technicalv2.gif" alt="Technical Skills" width="30" height="30" /> Technical Skills
+
+</div>
 
 <pre>
 ~$ cat technical_skills.txt
@@ -63,7 +70,11 @@ Currently, I’m focusing on my growth as a QA Engineer, while also transitionin
 </pre>
 
 <!--connect with me-->
+<div align="center">
+  
 ## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/raw/main/assets/images/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded hands" width="30" /> Connect with me
+
+</div>
 <p align="center">
 Do you want to contact me for collaboration opportunities? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Eyes.png" alt="Purple Heart" width="25" height="25" />
 </p>
@@ -74,7 +85,11 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 </p>
 
 <!--github overview-->
+<div align="center">
+  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> GitHub Overview
+
+</div>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -118,7 +133,11 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <!-- snake purple -->
 
 <!--update quote at 00:00 argentina-->
+<div align="center">
+  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="30" /> What I’m Thinking Today
+
+</div>
 
 
 
@@ -171,6 +190,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

@@ -1,14 +1,19 @@
 <svg xmlns='http://www.w3.org/2000/svg'
     xmlns:xlink='http://www.w3.org/1999/xlink'
-    viewBox='0 0 435 15'
+    viewBox='0 0 435 40'
     style='background-color: #00000000;'
-    width='435px' height='15px'>
+    width='435px' height='40px'>
+
+    <!-- cuadradito gris -->
+    <rect x="0" y="0" rx="6" ry="6" width="435" height="40" 
+      fill="#2d2d2d" fill-opacity="0.7" 
+      stroke="#FFFFFF" stroke-width="2" />
 
     <path id='path0'>
         <!-- linea -->
         <animate id='d0' attributeName='d' begin='0s;d0.end'
             dur='12000ms' fill='remove'
-            values='m0,7.5 h0 ; m0,7.5 h435 ; m0,7.5 h435 ; m0,7.5 h0'
+            values='m0,20 h0 ; m0,20 h435 ; m0,20 h435 ; m0,20 h0'
             keyTimes='0;0.46666666666667;0.88333333333333;1' />
     </path>
 
@@ -25,3 +30,5 @@
         </textPath>
     </text>
 </svg>
+
+

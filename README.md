@@ -146,7 +146,7 @@ Currently, I’m focusing on my growth as a QA Engineer, while also transitionin
 </div>
 
 <div align="center">
-<img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-050505?style=for-the-badge&logo=kalilinux&logoColor=557C94">
+<img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-050505?style=for-the-badge&logo=kalilinux&logoColor=1793D1">
 <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-050505?style=for-the-badge&logo=archlinux&logoColor=1793D1">
 <img alt="Bash" src="https://img.shields.io/badge/Bash-050505?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
 <img alt="Hack The Box" src="https://img.shields.io/badge/Hack_The_Box-050505?style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
@@ -276,6 +276,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

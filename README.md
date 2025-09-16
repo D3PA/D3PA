@@ -46,7 +46,7 @@ Currently, I’m focusing on my growth as a QA Engineer, while also transitionin
 
 <div align="center">
 
-<img src="assets/skills-terminal.gif" alt="skills terminal" />
+<img src="assets/skills-terminalv2.gif" alt="skills terminal" />
 
 </div>
 
@@ -173,6 +173,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

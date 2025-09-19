@@ -76,14 +76,14 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
     <td width="50%">
       <p align="center">
         <a href="https://github.com/D3PA">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=D3PA&count_private=true&show_icons=true&theme=dark&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&border_color=823AB5&show=reviews,prs_merged,prs_merged_percentage&card_width=500" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=D3PA&count_private=true&show_icons=true&theme=dark&bg_color=000000&title_color=b23eff&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&border_color=823AB5&show=reviews,prs_merged,prs_merged_percentage&card_width=500" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <p align="center">
         <a href="https://github.com/D3PA">
-          <img align="center" src="https://streak-stats.demolab.com?user=D3PA&theme=dark&background=0,0B2247,351170&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=b23eff&currStreakNum=ffffff&border=823AB5&card_width=500" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=D3PA&theme=dark&background=000000&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=b23eff&currStreakNum=ffffff&border=823AB5&card_width=500" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -92,14 +92,14 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
     <td width="50%">
       <p align="center">
         <a href="https://github.com/D3PA">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3PA&layout=compact&theme=dark&card_width=500&langs_count=10&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&border_color=823AB5" alt="Top Langs" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3PA&layout=compact&theme=dark&card_width=500&langs_count=10&bg_color=000000&title_color=b23eff&text_color=ffffff&border_color=823AB5" alt="Top Langs" />
         </a>
       </p>
     </td>
     <td width="50%">
       <p align="center">
         <a href="https://wakatime.com/@DEPA">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DEPA&layout=compact&theme=dark&bg_color=0,0B2247,351170&title_color=b23eff&text_color=ffffff&border_color=823AB5&card_width=500&langs_count=6&custom_title=Code%20Time%20⏳" alt="WakaTime Languages" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DEPA&layout=compact&theme=dark&bg_color=000000&title_color=b23eff&text_color=ffffff&border_color=823AB5&card_width=500&langs_count=6&custom_title=Code%20Time%20⏳" alt="WakaTime Languages" />
         </a>
       </p>
     </td>
@@ -181,6 +181,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

@@ -11,6 +11,13 @@
   <img src="assets/hi_typing.svg" width="900" />
 </p>
 
+<table align="right">
+ <tr><td><a href="https://github.com/D3PA"><img src="assets/flags/flag_us.png" alt="USA flag" width="17px">English</a></td></tr> 
+ <tr><td><a href="https://github.com/D3PA"><img src="assets/flags/flag_es.png" alt="Spain flag" width="17px">Spanish</a></td></tr>
+</table>
+
+</br>
+
 <!--about me-->
 ## <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" width="35"/> Who Am I?
 
@@ -181,6 +188,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

@@ -68,7 +68,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <table>
   <tr>
     <td width="40%">
-      <img src="assets/contact.png" width="100%" />
+      <img src="assets/contact.png" width="500px" />
     </td>
     <td width="60%">
       </p>
@@ -216,6 +216,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

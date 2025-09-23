@@ -65,12 +65,32 @@ Currently, I’m focusing on my growth as a QA Engineer, while also transitionin
 </div>
 <p align="center">
 Do you want to contact me for collaboration opportunities? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Eyes.png" alt="Purple Heart" width="25" height="25" />
-</p>
-<p align="center">
-<a href="https://www.linkedin.com/in/rodrimunoz"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=black" alt="Linkedin Profile with Username rodrimunoz" /></a>
-<a href="mailto:rodrigonicomunoz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=black" alt="email rodrigonicomunoz@gmail.com" /></a>
-<a href="mailto:rodrigonicomunoz@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-61DAFB?style=for-the-badge&logo=file-directory-fill&logoColor=61DAFB&labelColor=black" alt="email rodrigonicomunoz@gmail.com" /></a> 
-</p>
+<table>
+  <tr>
+    <td width="40%">
+      <img src="assets/contact.png" width="100%" />
+    </td>
+    <td width="60%">
+      </p>
+      <p align="center">
+      <a href="https://www.linkedin.com/in/rodrimunoz"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-823AB5?style=for-the-badge&logo=linkedin&logoColor=823AB5&labelColor=black" alt="Linkedin Profile with Username rodrimunoz" /></a>
+        &emsp;
+      <a href="mailto:rodrigonicomunoz@gmail.com"><img src="https://img.shields.io/badge/Gmail-823AB5?style=for-the-badge&logo=gmail&logoColor=823AB5&labelColor=black" alt="email rodrigonicomunoz@gmail.com" /></a>
+        &emsp;
+      <a href="https://github.com/D3PA"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-823AB5?style=for-the-badge&logo=file-directory-fill&logoColor=823AB5&labelColor=black" alt="Portfolio coming soon" /></a> 
+      </p>
+      <p align="center">Leave me a bug report, meme, or just a random hello <a href="https://github.com/D3PA/D3PA/issues/new?template=guestbook-entry.md">here</a>!</p>
+      <p align="center">Ask me anything… I’ll probably regret saying that in <a href="https://github.com/D3PA/D3PA/discussions/new/choose">Discussions</a>!</p>
+  
+        Yeah, this is the part where I tell you to “follow me” 
+        like I’m some kind of influencer. Spoiler: I’m not.   
+        But hey, if you want to talk code, throw project ideas at me, 
+        or just spam me with nonsense because you’re bored,    
+        go ahead – I won’t bite. Worst case, I ignore you. 
+        Best case, we build something cool.  
+        So, pick a link below and let’s see what kind of projects we can start. 
+  </tr>
+</table>
 
 <!--github overview-->
 <div align="center">
@@ -196,6 +216,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

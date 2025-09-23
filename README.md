@@ -80,7 +80,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
       <a href="https://github.com/D3PA"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-823AB5?style=for-the-badge&logo=file-directory-fill&logoColor=823AB5&labelColor=black" alt="Portfolio coming soon" /></a> 
       </p>
       <p align="center">Leave me a bug report, meme, or just a random hello <a href="https://github.com/D3PA/D3PA/issues/new?template=guestbook-entry.md">here</a>!</p>
-      <p align="center">Ask me anything… I’ll probably regret saying that in <a href="https://github.com/D3PA/D3PA/discussions/new/choose">Discussions</a>!</p>
+      <p align="center">Ask me anything… I’ll probably regret saying that in <a href="https://github.com/D3PA/D3PA/discussions/new/choose">discussions</a>!</p>
   
         Yeah, this is the part where I tell you to “follow me” 
         like I’m some kind of influencer. Spoiler: I’m not.   
@@ -216,6 +216,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

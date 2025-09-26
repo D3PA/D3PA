@@ -119,7 +119,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
     <td width="50%">
       <p align="center">
         <a href="https://github.com/D3PA">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3PA&layout=compact&theme=dark&card_width=500&langs_count=10&bg_color=000000&title_color=b23eff&text_color=ffffff&border_color=823AB5&langs_count=8" alt="Top Langs" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3PA&layout=compact&theme=dark&card_width=500&langs_count=8&bg_color=000000&title_color=b23eff&text_color=ffffff&border_color=823AB5" alt="Top Langs" />
         </a>
       </p>
     </td>
@@ -222,6 +222,7 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 <img alt="final animation" src="assets/animation_purple.svg">
 <img alt="final line" src="assets/final_line.svg">
 <!--final-->
+
 
 
 

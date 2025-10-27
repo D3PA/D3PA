@@ -202,11 +202,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=Live%20as%20if%20you%20were%20to%20die%20tomorrow.%20Learn%20as%20if%20you%20were%20to%20live%20forever.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Naruto&quote=Harden%20yourself%20to%20the%20pain%2C%20and%20it%20will%20never%20break%20you.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 

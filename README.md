@@ -244,11 +244,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Lance%20Armstrong&quote=Pain%20is%20temporary.%20Quitting%20lasts%20forever.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Death%20Note&quote=In%20our%20society%2C%20letting%20others%20find%20out%20that%20you%20are%20a%20nice%20person%20is%20a%20very%20risky%20move.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 

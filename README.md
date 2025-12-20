@@ -256,11 +256,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Fullmetal%20Alchemist&quote=The%20world%20isn%E2%80%99t%20perfect.%20But%20it%E2%80%99s%20there%20for%20us%20trying%20the%20best%20it%20can%E2%80%A6%20that%E2%80%99s%20what%20makes%20it%20beautiful.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Saint%20Seiya&quote=A%20lesson%20without%20pain%20is%20meaningless.%20You%20must%20endure%20to%20grow.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 

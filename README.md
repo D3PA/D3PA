@@ -261,11 +261,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Anonymous&quote=The%20only%20limits%20that%20exist%20are%20the%20ones%20you%20place%20upon%20yourself.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Mahatma%20Gandhi&quote=Live%20as%20if%20you%20were%20to%20die%20tomorrow.%20Learn%20as%20if%20you%20were%20to%20live%20forever.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 

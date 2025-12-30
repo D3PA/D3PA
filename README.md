@@ -266,11 +266,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Batman&quote=It's%20not%20who%20I%20am%20underneath%2C%20but%20what%20I%20do%20that%20defines%20me.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Batman&quote=The%20night%20is%20darkest%20just%20before%20the%20dawn.%20And%20I%20promise%20you%2C%20the%20dawn%20is%20coming.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 

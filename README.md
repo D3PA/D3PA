@@ -300,11 +300,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Attack%20on%20Titan&quote=The%20only%20thing%20we're%20allowed%20to%20do%20is%20to%20believe.%20We%20can%E2%80%99t%20change%20anything.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Itachi%20Uchiha&quote=People%E2%80%99s%20lives%20don%E2%80%99t%20end%20when%20they%20die%2C%20it%20ends%20when%20they%20lose%20faith.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 

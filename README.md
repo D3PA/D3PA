@@ -324,11 +324,13 @@ Do you want to contact me for collaboration opportunities? <img src="https://raw
 
 
 
+
 <!--TARJETA_INICIO-->
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?author=Attack%20on%20Titan&quote=People%20who%20can%E2%80%99t%20throw%20something%20important%20away%20can%20never%20hope%20to%20change%20anything.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Wonder%20Woman&quote=It%E2%80%99s%20not%20about%20deserve%2C%20it%E2%80%99s%20about%20what%20you%20believe.%20And%20I%20believe%20in%20love.&theme=transparent&author_color=7F3CFF&accent_color=7F3CFF&font=ubuntu&quote_color=FFFFFF&border_color=1A0045&border_width=5" alt="Quote"/>
 </p>
 <!--TARJETA_FIN-->
+
 
 
 
